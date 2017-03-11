@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Sample "Hello, World" Application</title>
+    <title>Sample "Hello, Worldeckii" Application</title>
   </head>
   <body bgcolor=white>
 
@@ -10,7 +10,7 @@
           <img src="images/springsource.png">
         </td>
         <td>
-          <h1>Sample "Hello, Worldgbaj;hadig" Application</h1>
+          <h1>Sample "Hello, Worldeckii" Application</h1>
         </td>
       </tr>
     </table>
